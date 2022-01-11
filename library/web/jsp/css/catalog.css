@@ -1,0 +1,19 @@
+.search{   		
+    vertical-align: top;
+    text-align:left;
+    width: 200px;
+} 
+
+.inner_table{
+
+    width: 1100px;
+    border: 2px solid white;
+}
+
+input.submit{
+    width: 90px; 
+    vertical-align: middle;
+}
+.subo{
+    width: 100px; 
+}
